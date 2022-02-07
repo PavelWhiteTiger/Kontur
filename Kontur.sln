@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontur", "Kontur\Kontur.csproj", "{6AA91AA8-43C0-4206-AE17-8DFB7220B556}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTasks", "CSharpTasks\CSharpTasks.csproj", "{6AA91AA8-43C0-4206-AE17-8DFB7220B556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP_Tasks", "HTTP_Tasks\HTTP_Tasks.csproj", "{FB88DB2D-7D2F-4A7A-B8E6-F189980ECF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XSLT", "XSLT\XSLT.csproj", "{B8EB1B1B-2538-4B8A-AB8A-61CBD065C75F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{6AA91AA8-43C0-4206-AE17-8DFB7220B556}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AA91AA8-43C0-4206-AE17-8DFB7220B556}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AA91AA8-43C0-4206-AE17-8DFB7220B556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB88DB2D-7D2F-4A7A-B8E6-F189980ECF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB88DB2D-7D2F-4A7A-B8E6-F189980ECF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB88DB2D-7D2F-4A7A-B8E6-F189980ECF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB88DB2D-7D2F-4A7A-B8E6-F189980ECF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EB1B1B-2538-4B8A-AB8A-61CBD065C75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EB1B1B-2538-4B8A-AB8A-61CBD065C75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EB1B1B-2538-4B8A-AB8A-61CBD065C75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EB1B1B-2538-4B8A-AB8A-61CBD065C75F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

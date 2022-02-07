@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using Kontur.Services;
+﻿using Kontur.Services;
 
 var times = new List<DateTime>
 {
@@ -9,10 +7,7 @@ var times = new List<DateTime>
     new(2019, 09, 03),
     new(2018, 12, 31),
     new(2017, 05, 09),
-    new(1, 01, 01),
 };
-
-var time = new DateTime();
 
 var helper = new DateTimeCollectionHelper();
 Console.WriteLine(helper.GetCount(times));

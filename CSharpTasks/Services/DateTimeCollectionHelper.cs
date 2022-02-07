@@ -16,7 +16,8 @@ public class DateTimeCollectionHelper
             .OrderBy(time => time)
             .Select(time => time.GetStringDate(cultureInfo));
     }
-    
+
+    //3 Задание
     public IEnumerable<long> GetTicks(IEnumerable<DateTime> dateTimes)
     {
         return dateTimes.Select(time => time.Ticks);
